@@ -63,29 +63,6 @@ devmesh/
 
 ---
 
-## 🔑 Demo Dataset Login Credentials
-
-### 1. Admin Account
-* **Email:** `admin@devconnect.local`
-* **Password:** `Admin@123`
-
-### 2. Student (Developer) Accounts
-* **Kalpak H S:** `kalpakshivakumar@gmail.com` / `Kalpak@123` (Full Portfolio & Resume)
-* **Manjunath Gowda:** `manjunath.gowda@devconnect.local` / `Manju@123`
-* **Keerthana R:** `keerthana.r@devconnect.local` / `Keerthi@123`
-
-### 3. Mentor Accounts
-* **Dr. Shashidhar Hegde:** `shashidhar.hegde@sjbit.edu.in` / `Mentor@123` (Full-Stack/Cloud Specialist)
-* **Prof. Kavitha M:** `kavitha.m@rvce.edu.in` / `Mentor@123` (AI/ML Specialist)
-* **Prof. Ramesh Kumar N:** `ramesh.kumar@bmsce.ac.in` / `Mentor@123` (IoT Specialist)
-
-### 4. Recruiter Accounts
-* **Anand Prakash (Zensof):** `anand@zensoftech.com` / `Recruit@123`
-* **Pooja Shetty (Razorpay):** `pooja@razorpay-demo.com` / `Recruit@123`
-* **Naveen Kumar (Happiest Minds):** `naveen@happiestminds-demo.com` / `Recruit@123`
-
----
-
 ## 🛠️ Getting Started
 
 ### 1. Prerequisites
@@ -128,8 +105,3 @@ devmesh/
    npm run dev
    ```
 4. Open the browser at `http://localhost:5173`.
-
----
-
-## 📝 License
-This project is licensed under the terms of the [MIT License](LICENSE).
